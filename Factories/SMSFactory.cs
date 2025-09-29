@@ -1,6 +1,6 @@
-﻿using Notification_Factory.Models;
+﻿using NotificationFactory.Models;
 
-namespace Notification_Factory.Factories
+namespace NotificationFactory.Factories
 {
     internal sealed class SMSFactory : NotificationFactory
     {

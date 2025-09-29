@@ -1,4 +1,4 @@
-﻿namespace Notification_Factory.Models
+﻿namespace NotificationFactory.Models
 {
     internal interface INotification
     {
